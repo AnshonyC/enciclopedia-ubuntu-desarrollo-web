@@ -48,6 +48,3 @@ Al abrir un Issue, intenta incluir:
 - Qué error apareció.
 - Qué esperabas que pasara.
 
-## Nota
-
-Este manual se creó con apoyo de IA y revisión humana. Puede contener errores o puntos mejorables. Las correcciones son bienvenidas.
